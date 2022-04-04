@@ -1,0 +1,6 @@
+name: User Greet
+description: User Greet module
+type: module
+core_version_requirement: ^9
+package: Motioncode
+
